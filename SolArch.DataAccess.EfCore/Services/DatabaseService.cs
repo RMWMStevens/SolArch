@@ -1,8 +1,8 @@
-﻿using SolArch.API.Interfaces;
-using SolArch.BL.Models;
+﻿using SolArch.BusinessLogic.Interfaces;
+using SolArch.BusinessLogic.Models;
 using System.Threading.Tasks;
 
-namespace SolArch.DAL.EF.Services
+namespace SolArch.DataAccess.EfCore.Services
 {
     public class DatabaseService : IDatabaseService
     {

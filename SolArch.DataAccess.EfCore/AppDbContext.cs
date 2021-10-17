@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace SolArch.DAL.EF
+namespace SolArch.DataAccess.EfCore
 {
     public class AppDbContext : DbContext
     {

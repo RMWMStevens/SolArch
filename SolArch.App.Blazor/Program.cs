@@ -4,7 +4,7 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace SolArch.Client
+namespace SolArch.App.Blazor
 {
     public class Program
     {

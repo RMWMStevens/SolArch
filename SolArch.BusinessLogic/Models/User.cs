@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SolArch.BL.Models
+namespace SolArch.BusinessLogic.Models
 {
     public class User
     {

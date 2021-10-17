@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace SolArch.API
+namespace SolArch.Api.AspNetCore
 {
     public class Program
     {

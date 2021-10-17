@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <AssemblyName>SolArch.DAL.EF</AssemblyName>
+    <AssemblyName>SolArch.DataAccess.EfCore</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SolArch.API\SolArch.API.csproj" />
-    <ProjectReference Include="..\SolArch.BL\SolArch.BL.csproj" />
+    <ProjectReference Include="..\SolArch.Api.AspNetCore\SolArch.Api.AspNetCore.csproj" />
+    <ProjectReference Include="..\SolArch.BusinessLogic\SolArch.BusinessLogic.csproj" />
   </ItemGroup>
 
 </Project>
